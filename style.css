@@ -1,0 +1,104 @@
+.text-teal-500 {
+    color: #087990;
+}
+.text-teal-700 {
+    color: #13795b;
+}
+.text-teal-900 {
+    color: #1b8565;
+}
+
+.bg-teal-500 {
+    background-color: #087990;
+}
+.bg-teal-700 {
+    background-color: #13795b;
+}
+.bg-teal-900 {
+    background-color: #06281e;
+}
+
+.button-teal-700 {
+    background-color: #13795b;
+}
+
+.text-gray-100 {
+    color: #f8f9fa;
+}
+.text-gray-200 {
+    color: #e9ecef;
+}
+.text-gray-500 {
+    color: #adb5bd;
+}
+.text-gray-700 {
+    color: #495057;
+}
+.text-gray-800 {
+    color: #212529;
+}
+
+.bg-gray-100 {
+    background-color: #f8f9fa;
+}
+.bg-gray-200 {
+    background-color: #e9ecef;
+}
+.bg-gray-500 {
+    background-color: #adb5bd;
+}
+.bg-gray-700 {
+    background-color: #495057;
+}
+.bg-gray-800 {
+    background-color: #212529;
+}
+
+
+
+
+
+@media only screen and (min-width: 1024px) {
+    .first{
+        padding: 100px;
+    }
+
+  }
+
+  @media only screen and (max-width: 768px) {
+    .first{
+        padding: 50px;
+    }
+
+  }
+
+  @media only screen and (max-width: 600px) {
+    .first{
+        padding: 00px;
+    }
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
